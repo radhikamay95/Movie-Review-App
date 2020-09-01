@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">pinkVila</string>
+
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <!--gender adapter-->
+    <string-array name="gender_list">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <!--Pagination details-->
+    <string name="pageApiKey">
+     a38706183f455354224d5133a91463e5
+
+    </string>
+
+    <string name="page_language">en-US</string>
+    <string name="app_logo">App Logo</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="profile">Profile Picture</string>
+    <!--hints-->
+    <string name="Username">Username*</string>
+    <string name="Password">Password*</string>
+    <string name="ForgetPassword">Forget Password?</string>
+    <string name="Login">Login</string>
+    <string name="Sign_up">SignUp</string>
+
+    <string name="PasswordPattern">((?=.*[a-z])(?=.*\\d)(?=.*[A-Z])(?=.*[@#$%!]).{8,40})</string>
+    <string name="transition">transit</string>
+    <string name="overview">Overview</string>
+    <string name="name">Name*</string>
+    <string name="select_age">Select Age*</string>
+
+
+    <string name="edit_image">editImage</string>
+
+    <string name="email_id">Email ID</string>
+    <string name="generate_otp">generate otp</string>
+    <string name="hint">Hint.</string>
+    <string name="submit">Submit</string>
+    <string name="new_password">New Password*</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="okay">OKAY</string>
+
+    <string name="email">Email*</string>
+    <string name="password">Password*</string>
+
+    <string name="gender">Gender*</string>
+
+    <string name="receive_email">Receive Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="pagination_list1">MovieList1</string>
+    <string name="pagination_list2">MovieList2</string>
+    <string name="pagination_list3">MovieList3</string>
+    <string name="my_profile">My Profile</string>
+    <string name="logout">Logout</string>
+</resources>
